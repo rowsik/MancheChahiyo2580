@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="HOME"
+        android:id="@+id/HOME"
+        android:icon="@drawable/home"/>
+
+    <item android:title="JOBS"
+        android:id="@+id/JOBS"
+        android:icon="@drawable/ic_work_black_24dp"/>
+
+    <item android:title=" PARTNERS"
+        android:id="@+id/PARTNERS"
+        android:icon="@drawable/handshake"/>
+
+
+    <item android:title="About TEAM"
+        android:id="@+id/ABOUTTEAM"
+        android:icon="@drawable/aa"/>
+
+
+    <item android:title="About US"
+        android:id="@+id/ABOUTUS"
+        android:icon="@drawable/aboutteam"/>
+
+
+
+
+
+
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MancheChahiyo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_login_">Login_Activity</string>
+    <string name="title_activity_employer_register">EmployerRegister</string>
+    <string name="title_activity_jobseeker_register">JobseekerRegister</string>
+
+    <!-- Strings related to login -->
+
+</resources>

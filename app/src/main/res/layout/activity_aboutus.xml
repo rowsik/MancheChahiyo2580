@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context="com.example.kishw.swastikcollege.AboutUs"
+        tools:showIn="@layout/activity_aboutus"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="86dp"
+            android:layout_height="wrap_content"
+            android:text="ABOUT US"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:padding="2dp"
+            android:layout_weight="1.13" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INTRODUCTION"
+            android:padding="5dp"
+
+            android:textStyle="bold"
+            android:layout_weight="0.69" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="273dp"
+            android:text="   Manche Chahiyo is the platform that connects the hirer and the applicant in their best way.As the name says'Manche' meaning people and 'Chahiyo' meaning requireness or want.Here people may be any person who wants to work or who want to get there work done. And the work here necessarily doesnt need to be technical. It can be any jobs like article writing, tailoring, mobile phone repairs, tutions.
+
+Basically Manche Chahiyo is a freelancing work with ease access to the people for their daily chores. Through Manche Chahiyo you can grow up your networking and profile . Your profile/skill will be rated upon the completion of the job that you are submitted and similary if you are hirer your profile will be rated on how you behave and cooperate basis.
+
+" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="VISION"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="   To enhance the platform for those people who have skills and looking for the qualtiy service and generate revenue."
+         />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MISSION"
+            android:padding="5dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:text="   MancheChahiyo has the set the mission to reduce the number of employed people to some extinct and break down the misconception about the freelancing. "/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GOAL"
+            android:padding="5dp"
+            android:textStyle="bold"
+             />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="   To uplift the growth of the individual and the corporates along with our growth."
+             />
+
+
+
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>
+
